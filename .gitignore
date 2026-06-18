@@ -1,3 +1,12 @@
 guidelines/
 imports/
-node_modules
+node_modules/
+
+dist/
+build/
+.env
+.env.local
+.DS_Store
+Thumbs.db
+npm-debug.log*
+pnpm-debug.log*
